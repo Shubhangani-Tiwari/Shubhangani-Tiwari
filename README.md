@@ -7,7 +7,7 @@
 
 - 📫 How to reach me tiwarishubhangani@gmail.com
 
-- 💬 Ask me about | Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Tableau | PowerBi | Excel| Google Analytics.
+- 💬 Ask me about Python| SQL | Machine Learning |  NLP | Tableau | PowerBi | Excel| Google Analytics |Quicksight
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
