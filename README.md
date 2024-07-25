@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Shubhangani-Tiwari?tab=repositories
 
-- 📫 How to reach me tiwarishubhangani1@gmail.com
+- 📫 How to reach me tiwarishubhangani@gmail.com
 
 - 💬 Ask me about | Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Tableau | PowerBi | Excel| Google Analytics.
 
