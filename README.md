@@ -52,7 +52,7 @@ Explore my projects repository to see detailed examples of my work:
 ## 📊 **GitHub Stats**
 
 ![Shubhangani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhangani-Tiwari&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangani-Tiwarie&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangani-Tiwari&layout=compact&theme=radical)  
 
 ---
 
