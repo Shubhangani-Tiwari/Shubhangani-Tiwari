@@ -1,37 +1,76 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=2GF723&lines=Hello,+My+Name+is+Shubhangani+Tiwari+W.;I'm++a+DATA+ANALYST.)
----
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+# Hi there! 👋 I'm Shubhangani Tiwari
 
-
-- 👨‍💻 All of my projects are available at https://github.com/Shubhangani-Tiwari?tab=repositories
-
-- 📫 How to reach me shubhanganit@gmail.com
-
-- 💬 Ask me about Python| SQL | Machine Learning |  NLP | Tableau | PowerBi | Excel| Google Analytics |Quicksight
-
-<h3 align="left">Languages and Tools:</h3>
-<hr>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img 
-
-<h3 align="lest"> Stats: </h3>
-<hr> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubhangani-Tiwari&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Shubhangani-Tiwari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubhangani-Tiwari&theme=tokyonight&show_icons=true&locale=en" alt="Shubhangani-Tiwari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhangani-Tiwari&theme=tokyonight&" alt="Shubhangani-Tiwari" /></p>
-
-
-<h3 align="left">Activity:</h3>
-
+🌟 **Data Analyst | Storyteller with Data | Enthusiastic Problem Solver** 🌟  
+Welcome to my GitHub! I'm passionate about diving into data to uncover insights and drive impactful decisions. Whether it's crunching numbers, visualizing trends, or building predictive models, I thrive on solving complex problems with simplicity and creativity.
 
 ---
-![snake gif](https://github.com/abdulayef1/abdulayef1/blob/output/github-contribution-grid-snake.svg)
+
+## 🛠️ **Tech Stack**
+### Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Specialties:
+- **📊 Data Analytics:** Exploratory Data Analysis, KPI Reporting, and Visualization
+- **📈 Data Visualization:** Interactive dashboards with Power BI, Tableau, and Looker Studio
+- **🤖 Machine Learning:** Regression, Classification, Clustering
+- **🧠 Statistical Modeling:** Advanced statistical techniques for predictive insights
+
+---
+## 📂 **Highlighted Projects**
+Explore my projects repository to see detailed examples of my work:  
+➡️ **[Projects Repository](https://github.com/your-github-username/projects-repo)**  
+
+### Featured Projects:
+
+1. 🔹 [Earthquake Data Analysis](#)
+- **Tools**: Power BI, SQL  
+- Analyzed earthquake patterns (magnitude 6+) across regions and years.  
+- Built **interactive dashboards** to visualize trends and hotspots.
+
+2. 🔹 [Google Play Store Analysis](#)
+- **Tools**: Python, Tableau  
+- Cleaned and analyzed app data to identify trends in categories, ratings, and downloads.  
+- Designed a Tableau dashboard that helped visualize key metrics like popularity and revenue drivers.
+
+3. 🔹 [Healthcare Analytics Solution](#)
+- **Tools**: Excel, QuickSight 
+- Delivered insights on user health and engagement trends for a healthcare app.  
+- Helped **Product Management** teams strategize feature enhancements for better user retention.
+
+4. 🔹 [Retail Analytics](#)
+- **Tools**: Excel, Tableau  
+- Examined store traffic and sales to identify trends and optimize retail strategies.  
+- Created weekly and historical dashboards to aid decision-making.
+
+---
+## 📊 **GitHub Stats**
+
+![Shubhangani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhangani-Tiwari&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangani-Tiwarie&layout=compact&theme=radical)  
+
 ---
 
-<h3 align="left">Connect with me:</h3>
-<hr
-<p align="left">
-<a href="https://www.linkedin.com/in/shubhangani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shubhangani-Tiwari/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulchin-taghizade-38b817a6" height="30" width="40" /></a>
-</p>
+## 🚀 **What I'm Up To**
+- 🌐 Building end-to-end analytics pipelines with **AWS** tools.  
+- 🤝 Open to collaborations in **Data Science** and **Product Analytics**.  
+- 📖 Currently learning **advanced machine learning workflows** and **cloud data engineering**.
+
+---
+
+## 🌟 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangani)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarishubhangani@gmail.com)  
+
+
+---
+
+👀 **Fun Fact:** I believe every dataset tells a story, and I enjoy being the storyteller!  
+Thanks for stopping by! Feel free to explore my repositories and drop me a message if you'd like to collaborate. 🚀
+
+
