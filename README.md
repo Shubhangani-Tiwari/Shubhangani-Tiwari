@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm passionate about diving into data to uncover insights 
 ---
 ## 📂 **Highlighted Projects**
 Explore my projects repository to see detailed examples of my work:  
-➡️ **[Projects Repository](https://github.com/your-github-username/projects-repo)**  
+➡️ **[Projects Repository](\https://github.com/Shubhangani-Tiwari?tab=repositories)**  
 
 ### Featured Projects:
 
