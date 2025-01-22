@@ -28,22 +28,22 @@ Explore my projects repository to see detailed examples of my work:
 
 ### Featured Projects:
 
-1. 🔹 [Earthquake Data Analysis](#)
+1. 🔹 [Earthquake Data Analysis](https://drive.google.com/file/d/1altRH3CMLmNPkh0TeVkZotIdj8m1Bvd1/view?usp=sharing)
 - **Tools**: Power BI, SQL  
 - Analyzed earthquake patterns (magnitude 6+) across regions and years.  
 - Built **interactive dashboards** to visualize trends and hotspots.
 
-2. 🔹 [Google Play Store Analysis](#)
+2. 🔹 [Google Play Store Analysis](https://github.com/Shubhangani-Tiwari/Play-Store--Apps-Reviews-Project)
 - **Tools**: Python, Tableau  
 - Cleaned and analyzed app data to identify trends in categories, ratings, and downloads.  
 - Designed a Tableau dashboard that helped visualize key metrics like popularity and revenue drivers.
 
-3. 🔹 [Healthcare Analytics Solution](#)
-- **Tools**: Excel, QuickSight 
-- Delivered insights on user health and engagement trends for a healthcare app.  
-- Helped **Product Management** teams strategize feature enhancements for better user retention.
+3. 🔹 [Transport Demand Prediction](https://github.com/Shubhangani-Tiwari/Supervised-M.L-Project--Transport-Demand-Prediction)
+- **Tools**: Python
+- **Machine Learning Algorithms:** Regression, Decision Tree, Random Forest
+- Generated the regression models to predict/estimate ticket sales for specific rides, routes, dates, and times.
 
-4. 🔹 [Retail Analytics](#)
+4. 🔹 [Retail Analytics]
 - **Tools**: Excel, Tableau  
 - Examined store traffic and sales to identify trends and optimize retail strategies.  
 - Created weekly and historical dashboards to aid decision-making.
