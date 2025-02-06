@@ -14,6 +14,9 @@ Welcome to my GitHub! I'm passionate about diving into data to uncover insights 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Machine Learning](![image](![image](https://github.com/user-attachments/assets/ef8b180c-0182-46b6-ad9e-bdf8b96178b8)
+
+
 
 ### Specialties:
 - **📊 Data Analytics:** Exploratory Data Analysis, KPI Reporting, and Visualization
