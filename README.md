@@ -14,19 +14,19 @@ Welcome to my GitHub! I'm passionate about diving into data to uncover insights 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Machine Learning](![image](![image](https://github.com/user-attachments/assets/ef8b180c-0182-46b6-ad9e-bdf8b96178b8)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4285F4?style=for-the-badge&logo=machinelearning&logoColor=black)
 
 
 
 ### Specialties:
 - **📊 Data Analytics:** Exploratory Data Analysis, KPI Reporting, and Visualization
 - **📈 Data Visualization:** Interactive dashboards with Power BI, Tableau, and Looker Studio
-- **🤖 Machine Learning:** Regression, Classification, Clustering
+- **🤖 Machine Learning:** Regression, Classification, Clustering, NLP
 - **🧠 Statistical Modeling:** Advanced statistical techniques for predictive insights
 
 ---
 ## 📂 **Highlighted Projects**
-Explore my projects repository to see detailed examples of my work:  
+Explore my project's repository to see detailed examples of my work:  
 ➡️ **[Projects Repository](https://github.com/Shubhangani-Tiwari?tab=repositories)**  
 
 ### Featured Projects:
