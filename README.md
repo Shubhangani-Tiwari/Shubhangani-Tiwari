@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shubhangani Tiwari
 
-🌟 **Data Analyst | Storyteller with Data | Enthusiastic Problem Solver** 🌟  
+🌟 **Business Analyst | Data Analyst | Storyteller with Data | Enthusiastic Problem Solver** 🌟  
 Welcome to my GitHub! I'm passionate about diving into data to uncover insights and drive impactful decisions. Whether it's crunching numbers, visualizing trends, or building predictive models, I thrive on solving complex problems with simplicity and creativity.
 
 ---
